@@ -15,7 +15,7 @@
 14. Kubernetes.
 15. Cloud.
 16. Python.
-17. Apache Projects.
+17. Apache Projects/Elastic/Mongo/Cassandra.
 18. Kafka
 19. Distributed programming.
 20. Software Trends.
